@@ -41,3 +41,7 @@ ipns-vanity.exe kami C:\Users\<you>\ipns-keys 12
 Файлы `*.key` — приватные ключи в формате libp2p-protobuf-cleartext
 (`ipfs key import <имя> --format=libp2p-protobuf-cleartext <файл>`). Хранить вне репозитория, копии — только
 в зашифрованном виде. В `.gitignore` они уже исключены.
+
+## Лицензия
+
+MIT, см. [LICENSE](LICENSE).
